@@ -1,0 +1,7 @@
+// package.json
+{
+  "name": "valify-auth-api",
+  "dependencies": {
+    "google-auth-library": "^9.0.0"
+  }
+}
